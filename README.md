@@ -14,6 +14,10 @@ A professional-grade **Flutter Windows desktop** resume builder with ATS scoring
 | Right ATS Panel | Real-time ATS score gauge and improvement tips |
 
 ---
+<img width="1914" height="1003" alt="image" src="https://github.com/user-attachments/assets/3c31835a-81c4-4422-8af7-44352cb7dfa0" />
+
+
+
 
 ## Prerequisites
 
